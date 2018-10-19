@@ -2,5 +2,5 @@ token= NTAxMzQ4NjAzNjI1OTk2Mjk5.DqtY_Q.MA_m1pq1fqDCQvgYaUgWzAYktPM
 owner= 431403582277812235 
 prefix= #play
 game= !help
-stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
-songinstatus=false هنا اذا تبيه يكتب اسم الاغنية الي مشغلها البوت في البلايمج حقه اذا تبيها خليها true
+stayinchannel=true
+songinstatus=false
